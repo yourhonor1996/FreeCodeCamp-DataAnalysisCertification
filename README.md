@@ -6,4 +6,4 @@ I thank FreeCodeCamp for their great courses and for helping me in my career and
 The certification can be found at **[THIS LINK](https://freecodecamp.org/certification/fcc5a5f6ba1-f11f-4535-a9f2-6dccefb6e1db/data-analysis-with-python-v7)**
 
 
-![](https://i.ibb.co/9cbRQHJ/Free-Code-Camp-Data-Analysis-With-Python.jpg)
+![](https://github.com/yourhonor1996/FreeCodeCamp-DataAnalysisCertification/blob/master/FreeCodeCamp%20-%20Data%20Analysis%20With%20Python.jpg)
