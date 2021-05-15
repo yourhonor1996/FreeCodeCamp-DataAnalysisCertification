@@ -6,10 +6,9 @@ During this course i learned subjects such as:
 - Pandas 
 - Advanced data importing using Pandas
 - Data Cleaning
-- Data representation with Matplotlib
-- Using OOP Matplotlip coding style to create data visualization chart
+- Using OOP Matplotlip coding style for data visualization
 - Using Seaborn and Matplotlib to create data visualization and data analysis charts
-- Using statistical functions from Scipy for data analysis 
+- Using Scipy for data analysis 
 - ...
 
 I thank FreeCodeCamp for their great courses and for helping me in my career and achieving my goals :heart:
